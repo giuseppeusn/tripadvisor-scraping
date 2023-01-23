@@ -19,8 +19,8 @@ Caso o usuário queira, também é possível coletar as avaliações dos cliente
 
 ## Como utilizar
 - Baixe o programa <a href="https://github.com/giuseppeusn/tripadvisor_scraping/releases/tag/v1.0.0">aqui</a>
-- Descompacte o arquivo .zip
-- Execute o arquivo tripadvisor_scraping.exe
+- Descompacte o arquivo `.zip`
+- Execute o arquivo `tripadvisor_scraping.exe`
 - Informe a URL para fazer a raspagem
 - Informe o nome do arquivo para salvar
 - Informe e quantidade de comentários (informando 0 não irá coletar nenhum)
