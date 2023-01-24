@@ -24,5 +24,5 @@ Caso o usuário queira, também é possível coletar as avaliações dos cliente
 - Execute o arquivo `tripadvisor_scraping.exe`
 - Informe a URL para fazer a raspagem
 - Informe o nome do arquivo para salvar
-- Informe e quantidade de comentários (informando 0 não irá coletar nenhum)
+- Informe a quantidade de comentários (informando 0 não irá coletar nenhum)
 - Após o script terminar de executar, o arquivo estará disponível na pasta `data` com o nome escolhido inicialmente 
