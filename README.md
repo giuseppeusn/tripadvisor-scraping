@@ -19,7 +19,7 @@ Caso o usuário queira, também é possível coletar as avaliações dos cliente
 
 ## Como utilizar
 **Importante:** é necessário ter o Google Chrome instalado para executar esse script
-- Baixe o script <a href="https://github.com/giuseppeusn/tripadvisor_scraping/releases/tag/v1.0.0">aqui</a>
+- Baixe o script <a href="https://github.com/giuseppeusn/tripadvisor-scraping/releases">aqui</a>
 - Descompacte o arquivo `.zip`
 - Execute o arquivo `tripadvisor_scraping.exe`
 - Informe a URL para fazer a raspagem
